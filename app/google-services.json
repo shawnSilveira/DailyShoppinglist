@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869902427656",
+    "firebase_url": "https://myapp-f51b6.firebaseio.com",
+    "project_id": "myapp-f51b6",
+    "storage_bucket": "myapp-f51b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869902427656:android:13c731a208266f52",
+        "android_client_info": {
+          "package_name": "com.example.alecstersilveira.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869902427656-fu2qquund19vhs0937lo5b9quk71ua15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaZaRzLDk-BhNmWBtlX3BQ7MzdKiXueE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869902427656-fu2qquund19vhs0937lo5b9quk71ua15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
